@@ -54,4 +54,4 @@ Alternatively you may add this line to you bashrc:
 
     alias fruitywatch="watch -tcpn.5 'figlet -f big -W \"$(date +%l:%M:%S)\" |  toilet -f term --gay'"
 
-
+This approach may be useful if you are not an administrator.

@@ -2,7 +2,7 @@
 
 Fruitywatch is a big fruity command line clock.
 
-![Uh oh: img not found](http://full/path/to/img.jpg "Fruitywatch running on OSX Yosemite")
+![Uh oh: img not found](https://raw.githubusercontent.com/Altoidnerd/fruitywatch/master/screenshot.png "Fruitywatch running on OSX Yosemite")
 
 ## linux installation
 

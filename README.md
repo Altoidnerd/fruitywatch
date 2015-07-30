@@ -31,10 +31,9 @@ OSX does not come with watch out of the box, so
 
     brew install toilet
     brew install figlet
-    brew install watch`
+    brew install watch
 
 Then the procedure is the same.  You will need sudo unless you change the destination directory
-
 
     cd && git clone https://github.com/altoidnerd/fruitywatch
     cd fruitywatch

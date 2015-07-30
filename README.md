@@ -1,5 +1,8 @@
 ## fruitywatch
-a big fruity command line clock
+
+Fruitywatch is a big fruity command line clock.
+
+![Uh oh: img not found](http://full/path/to/img.jpg "Fruitywatch running on OSX Yosemite")
 
 ## linux installation
 

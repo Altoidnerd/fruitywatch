@@ -1,0 +1,4 @@
+#!/bin/bash
+
+
+watch -tcpn.5 'figlet -f big -W "$(date +%l:%M:%S)"|toilet -f term --gay'

@@ -6,7 +6,7 @@ a big fruity command line clock
     sudo apt-get install figlet toilet
     cd && git clone https://github.com/altoidnerd/fruitywatch
     cd fruitywatch
-    chmod +x install_fruitwatch
+    chmod +x install_fruitywatch
     ./install_fruitywatch
     
 # osx build
@@ -17,6 +17,6 @@ a big fruity command line clock
     brew install watch
     cd && git clone https://github.com/altoidnerd/fruitywatch
     cd fruitywatch
-    chmod +x install_fruitwatch
+    chmod +x install_fruitywatch
     ./install_fruitywatch
     

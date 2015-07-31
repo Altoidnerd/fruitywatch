@@ -31,12 +31,12 @@ for l in {0..9} a
 done
 
 while :;
-  do set `date "+%Ha%Ma%S %N"`;t=$1;s=$2;$x -ne "\r${z}8A";
+  do set `date "+%Ha%Ma%S "`;t=$1;s=$2;$x -ne "\r${z}8A";
   for l in {0..8};
     do for ((i=0;i<8;i++));
       do $x -ne "${d[0x${t:$i:1}$l]}";
   [ $i != 7 ]&&$x -n "  ";
       done;[ $l != 8 ]&&$x;
     done;$x -n " ";
-    s=$((3000-1${s:0:3}));sleep 0.${s:1:3};
+    s=$((3000-1${s:0:3}));sleep 1;
   done

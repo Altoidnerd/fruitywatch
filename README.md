@@ -9,7 +9,7 @@ Fruitywatch is a big fruity command line clock.
     sudo apt-get install figlet toilet
     cd && git clone https://github.com/altoidnerd/fruitywatch
     cd fruitywatch
-    sudo mv fruitywatch /usr/local/bin && echo "installation successful! usage: $ fruitywatch"
+    sudo cp fruitywatch /usr/local/bin && echo "installation successful! usage: $ fruitywatch"
 
 alternatively, you may just run this command if you have the figlet and toilet dependencies
 
@@ -33,7 +33,7 @@ Then the procedure is the same.  You will need sudo unless you change the destin
 
     cd && git clone https://github.com/altoidnerd/fruitywatch
     cd fruitywatch
-    sudo mv fruitywatch /usr/local/bin && echo "installation successful! usage: $ fruitywatch"
+    sudo cp fruitywatch /usr/local/bin && echo "installation successful! usage: $ fruitywatch"
     
 Alternatively, run this as root:
 

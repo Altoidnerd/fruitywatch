@@ -13,7 +13,7 @@ Fruitywatch is a big fruity command line clock.
 
 alternatively, you may just run this command if you have the figlet and toilet dependencies
 
-    cd && echo 'watch -tcpn.5 '\''figlet -f big -W "$(date +%l:%M:%S)"|toilet -f term --gay'\' > fruitywatch && chmod +x fruitywatch; mv ./fruitywatch /usr/local/bin && fruitywatch
+    cd && echo 'watch -tcpn.5 'figlet -f big -W "$(date +%l:%M:%S)"|toilet -f term --gay > fruitywatch && chmod +x fruitywatch; mv ./fruitywatch /usr/local/bin && fruitywatch
 
 You will need sudo unless you change the destination directory.
 
@@ -37,7 +37,7 @@ Then the procedure is the same.  You will need sudo unless you change the destin
     
 Alternatively, run this as root:
 
-    cd && echo 'watch -tcpn.5 '\''figlet -f big -W "$(date +%l:%M:%S)"|toilet -f term --gay'\' > fruitywatch && chmod +x fruitywatch; mv ./fruitywatch /usr/local/bin && fruitywatch
+    cd && echo 'watch -tcpn.5 'figlet -f big -W "$(date +%l:%M:%S)"|toilet -f term --gay > fruitywatch && chmod +x fruitywatch; mv ./fruitywatch /usr/local/bin && fruitywatch
 
 
 ## shell alias  
